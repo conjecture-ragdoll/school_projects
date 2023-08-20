@@ -13,12 +13,12 @@
 
 
 // SET FILE ENCODING TO UTF-8
-
+// Needs INPUT FILE of Integers
 
 // **********Compile using: 
-// gcc Afroza_23690682.c -o Afroza_23690682.exe -lpthread -lm
+// gcc 340.c -o 340.exe -lpthread -lm
 
-// I also used "./Afroza_23690682.exe Prj2InpSect24.txt Afroza_23690682.txt"
+// I also used "./340.exe Prj2InpSect24.txt 340.txt"
 
 int *InpArray; 
 
